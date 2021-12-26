@@ -1,2 +1,2 @@
-__version__ = "0.1.11"
-hugo_version = "0.1.2"
+__version__ = "0.1.1"
+hugo_version = "0.1.1"
