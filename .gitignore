@@ -1,0 +1,4 @@
+dist/*
+build/*
+py_Hugo.egg-info/*
+__pycache__
